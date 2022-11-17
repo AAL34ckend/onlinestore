@@ -1,0 +1,8 @@
+{
+    "require": {
+        "sentry/sentry-laravel": "^2.13"
+    },
+    "require-dev": {
+        "laravel/breeze": "^1.11"
+    }
+}
